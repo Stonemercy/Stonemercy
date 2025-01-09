@@ -1,6 +1,6 @@
 # 🎮 Stonemercy  
 
-**"Dedicated to crafting solutions for players, communities, and the glory of collaboration."**  
+**Dedicated to crafting solutions for players, communities, and the glory of collaboration.**  
 
 ---  
 
@@ -30,7 +30,7 @@ It supports server customization and allows direct feedback to me.
 ---  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python, HTML/CSS, and SQL.  
+- **Languages:** Python, SQL.  
 - **Libraries/Frameworks:**  
   - **disnake:** For seamless integration with Discord.  
   - **Pillow:** To generate custom maps.  
@@ -47,7 +47,7 @@ It supports server customization and allows direct feedback to me.
 ---  
 
 ## 📫 Connect with Me  
-- 🎮 **Discord:** stonemercy
+- 🎮 **Discord:** [stonemercy](https://discord.gg/Z8Ae5H5DjZ)
 - 🦋 **Bluesky:** [@thestonemercy.bsky.social](https://bsky.app/profile/thestonemercy.bsky.social)  
 
 
